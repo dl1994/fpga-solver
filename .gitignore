@@ -1,13 +1,7 @@
-# Eclipse project files
-
-.classpath
-.project
-.settings
+# IntelliJ project files
+.idea
+*.iml
 
 # Maven files
 
 target
-
-# IntelliJ
-
-.idea
