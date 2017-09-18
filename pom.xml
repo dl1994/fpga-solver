@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
     <version>1.0.0</version>
     <name>FPGA CLB Mapper</name>
-    <url>https://github.com/dl1994/fpga-solver</url>
+    <url>https://github.com/domagojlatecki/fpga-solver</url>
     <description>Program which finds FPGA mapping for provided set of logic functions.</description>
 
     <developers>
@@ -16,10 +16,6 @@
             <id>domagoj.latecki</id>
             <name>Domagoj Latečki</name>
             <email>domagoj1994@gmail.com</email>
-            <roles>
-                <role>developer</role>
-            </roles>
-            <timezone>+1</timezone>
         </developer>
     </developers>
 
